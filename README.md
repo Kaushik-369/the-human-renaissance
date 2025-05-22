@@ -1,1 +1,2 @@
-# the-human-renaissance
+# The Human Renaissance
+A personal journal of silence, wonder, and philosophical exploration.
